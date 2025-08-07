@@ -22,7 +22,7 @@ Is mein public key, naam, expiry date, aur CA ka signature hota hai.
 
 ### Field -------------------------------------	Explanation
 
-Subjec ---------------------------------t	Name of the owner
+Subject ---------------------------------	Name of the owner
 
 Issuer---------------------------------	Certificate Authority (CA) name
 
@@ -38,7 +38,7 @@ Algorithm ------------------------------	Encryption method used
 
 ## Types of Digital Certificates 
 
-### Type -------------------------------------------------------	Use Case----------------------------------------------------------	Urdu
+### Type ---------------------------------------	Use Case--------------------------------------------------------	Urdu
 
 SSL/TLS Certificate --------------------------------	Secures websites (HTTPS) -------------------------------------	ویب سائٹس کی حفاظت
 
